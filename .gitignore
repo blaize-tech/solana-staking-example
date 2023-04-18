@@ -1,0 +1,8 @@
+/interface/node_modules/
+/contracts/target
+/contracts/Cargo.lock
+/test-ledger
+/interface/test-ledger
+/admin-keypair.json
+/payer-keypair.json
+/program-keypair.json
